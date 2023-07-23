@@ -16,6 +16,8 @@ Continual learning is an important part of my personality . Here are some of the
 
 ### Ali's Kitchen
 
+https://alis-kitchen.onrender.com/
+
 I am an absolute foodie so first project I wanted to work on was a recipe sharing website, where people can create an account and submit their favorite recipes! I made this with HTML, custom CSS, Bootstrap, Node.js, EJS and Postgres for the relational database. Here's a quick snippet but you can find the projet repo below!
 
 https://github.com/AlexTensorer/AlexTensorer/assets/128236218/cd679c16-1ad4-4499-8703-690f31755dbf
