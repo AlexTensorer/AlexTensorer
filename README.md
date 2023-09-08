@@ -10,6 +10,7 @@ Hi there! I'm Alex, a passionate learner looking for a role as a Fullstack Web D
 Continual learning is an important part of my personality . Here are some of the things I'm currently learning:
 
 - **React.js**: I specialised in backend development during my bootcamp so I'm diving deep into React.js to build dynamic and interactive user interfaces.
+- **Java**: In really high demand in my region, I am learning Java via a course on Udemy, exposing me to a OOP language.
 - **Git and GitHub**: I'm mastering version control and collaborative workflows using Git and GitHub.
 
 ## Projets
