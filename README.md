@@ -1,20 +1,10 @@
 ## About Me
-Hi there! I'm Alex, Full stack Developer @LeStud
+Alex, Full stack Developer @LeStud
 
-## Interests
-
-- **Web Development**: I enjoy creating interactive and visually appealing websites using modern technologies like HTML, CSS, and JavaScript.
-- **Data Science**: I'm fascinated by the power of data and its potential to drive insights and decision-making. I'm currently exploring data visualization techniques on [FreeCodeCamp.org](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3)
-
-## Current Learning
-Continual learning is an important part of my personality. Here are some of the things I'm currently learning:
-
-- **React.js**: I specialised in backend development during my bootcamp so I'm diving deep into React.js to build dynamic and interactive user interfaces.
-- **Git and GitHub**: I'm mastering version control and collaborative workflows using Git and GitHub.
 
 ## Projets
 
-## Portfolio
+### Portfolio
 
 Feel free to have a look at my [portfolio](https://www.alex-tensorer.com/) and checkout the [source code](https://github.com/AlexTensorer/alt-portfolio) on github too!
 
@@ -22,7 +12,7 @@ React.js, Tailwind
 
 <img width="1430" alt="Screenshot 2023-09-14 at 13 00 50" src="https://github.com/AlexTensorer/AlexTensorer/assets/128236218/68cdfbf7-91bf-4ecc-8a8a-13aa8f1086a2">
 
-## O'invest
+### O'invest
 
 O'invest is a portfolio performance tracker. The aim of the app is to centralize all your investments into one convenient place, and from there be able to make informed decisions. You will have visibility on your overall performance, see if you are over exposed to a certain financial asset, and make the appropriate adjustments.
 
