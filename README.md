@@ -1,6 +1,8 @@
 ## About Me
 Alex, Full stack Developer @LeStud
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexTensorer)](https://github.com/AlexTensorer/github-readme-stats)
+
 
 ## Projets
 
